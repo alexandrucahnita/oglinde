@@ -1,10 +1,10 @@
 /*responsive.css*/
 
 @media (min-width: 768px) {
-.navbar-toggle {
-    display: block;
-}/*min-width: 768px*/
-
+	.navbar-toggle {
+	    display: block;
+	}/*min-width: 768px*/
+}
 @media (min-width: 1200px) {
 	#navbar {
 		margin-left:510px;
@@ -23,6 +23,7 @@
 	}
 
 }/*min-width 1200*/
+
 @media (min-width: 1000px) {
 	.navbar-nav>li {
 	    float: none;
@@ -31,6 +32,7 @@
     display: none;
 	}
 }/*min width 1000*/
+
 @media(max-width:1000px)  {
 	.container {
 	    width: 100%;
