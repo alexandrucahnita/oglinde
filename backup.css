@@ -1,0 +1,54 @@
+/*backup.css*/
+
+/*nav breakpoint*/
+@media(max-width:1000px)  {
+
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+    .navbar-collapse {
+        overflow-x: visible !important;
+    }
+
+    .navbar-collapse.in {
+      overflow-y: auto !important;
+    }
+
+    .collapse.in {
+      display: block !important;
+    }
+    .navbar-toggle {
+    	display: block;
+    }
+    #navbar {
+    margin: 0 0 0 80px;
+}
+#navbar a {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 0 2px 0;
+    border-bottom: 1px solid transparent;
+}
+#navbar li.active a, #navbar a:hover {
+    border-bottom: 1px solid #00b0bd;
+    background-color: transparent;
+}
+    .navbar-header button {
+		position:absolute;
+		right:0;
+		color:#00b0bd;
+		font-size:24px;
+    }
+	#navbar .navbar-nav, #navbar .navbar-nav li {
+		float:none;
+		margin:0;
+	}
+	#logo {
+    	width: 30px;
+    height: auto;
+	}
+
+}
