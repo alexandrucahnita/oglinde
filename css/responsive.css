@@ -103,6 +103,9 @@
 		float:none;
 		margin:0;
 	}
+	#navbar .navbar-nav li {
+		margin-bottom:30px;
+	}
 	#logo {
     	width: 25px;
     	height: auto;
