@@ -1,10 +1,4 @@
 /*responsive.css*/
-
-@media (min-width: 768px) {
-	.navbar-toggle {
-	    display: block;
-	}/*min-width: 768px*/
-}
 @media (min-width: 1200px) {
 	#navbar {
 		margin-left:510px;
@@ -111,3 +105,38 @@
     	height: auto;
 	}
 }/*max-width 1000*/
+
+
+@media (max-width: 768px) {
+	/*home banner*/
+	#content .row > #home-banner-content {
+	    font-size: 220%;
+	    line-height: 125%;
+	    margin-top: 16%;
+	    margin-left: 2%;
+	} 
+	/*end home banner*/	
+}
+/*max-width: 768px*/
+
+
+@media (max-width: 600px) {
+	/*home banner*/
+	#content .row > #home-banner-content {
+	    font-size: 180%;
+	    line-height: 125%;
+	    margin-top: 16%;
+	    margin-left: 2%;
+	} 
+
+	/*end home banner*/	
+}/*max-width: 600px*/
+
+@media (max-width: 600px) {
+	/*home banner*/
+	#content .row > #home-banner-content {
+	    display:none;
+	} 
+
+	/*end home banner*/	
+}/*max-width: 500px*/
