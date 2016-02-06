@@ -1,9 +1,10 @@
 /*backup.css*/
-@media (min-width: 1000px) {
-	.navbar-nav>li {
-	    float: none;
-	}
-}/*min width 1000*/
+
+@media (min-width: 768px) {
+.navbar-toggle {
+    display: block;
+}/*min-width: 768px*/
+
 @media (min-width: 1200px) {
 	#navbar {
 		margin-left:510px;
@@ -20,8 +21,16 @@
 	.row > div:first-child {
 		border-left:0;
 	}
+
 }/*min-width 1200*/
-/*nav breakpoint*/
+@media (min-width: 1000px) {
+	.navbar-nav>li {
+	    float: none;
+	}
+	.navbar-toggle {
+    display: none;
+	}
+}/*min width 1000*/
 @media(max-width:1000px)  {
 	.container {
 	    width: 100%;
@@ -55,7 +64,7 @@
 	    float: right;
 	    right:0;
 	    padding: 0;
-	    margin:6px 10px 0 0;
+	    margin:1px 10px 0 0;
 	    background-color: transparent;
 	    background-image: none;
 	    border: 1px solid transparent;
@@ -63,6 +72,7 @@
 	    color:#00b0bd;
 		font-size:24px;
 		z-index:2000;
+		display: block;
 	}
     #navbar {
 	    margin: 0;
@@ -72,6 +82,7 @@
 	    background-color: #ccc;
 	    left: 0;
 	    min-height: 3000px;
+	    padding-left: 20px;
 	}
 
 	#navbar a {
@@ -94,7 +105,4 @@
     	width: 25px;
     	height: auto;
 	}
-
-
 }/*max-width 1000*/
-
