@@ -51,11 +51,29 @@
       display: block !important;
     }
     .navbar-toggle {
-    	display: block;
-    }
-    #navbar {
-    margin: 0 0 0 80px;
+	    position: absolute;
+	    float: right;
+	    right:0;
+	    padding: 0;
+	    margin:6px 10px 0 0;
+	    background-color: transparent;
+	    background-image: none;
+	    border: 1px solid transparent;
+	    border-radius: 4px;
+	    color:#00b0bd;
+		font-size:24px;
+		z-index:2000;
 	}
+    #navbar {
+	    margin: 0;
+	    position: absolute;
+	    top: 0;
+	    width: 100%;
+	    background-color: #ccc;
+	    left: 0;
+	    min-height: 3000px;
+	}
+
 	#navbar a {
 	    color: #000;
 	    text-transform: uppercase;
@@ -68,12 +86,6 @@
 	    border-bottom: 1px solid #00b0bd;
 	    background-color: transparent;
 	}
-    .navbar-header button {
-		position:absolute;
-		right:0;
-		color:#00b0bd;
-		font-size:24px;
-    }
 	#navbar .navbar-nav, #navbar .navbar-nav li {
 		float:none;
 		margin:0;
