@@ -1,23 +1,29 @@
-<footer id="global-footer">
-    <p class="span3">&copy; 2013 CMI Mihaela Vicol</p>
-    <ul class="offset7">
-        <li>
-            <a href="/servicii/">Servicii</a>
-        </li>
-        <li>
-            <a href="/mihaela-vicol/">Despre</a>
-        </li>
-        <li>
-            <a href="/contact/">Contact</a>
-        </li>
+<div id="footer">
+  <div class="row">
+  <div class="col-md-12">
+    <strong>Our Contact Details</strong>
+  </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      <p>e: <a href="">mail@domain.com</a></p>
+      <p>t: 0744 444 444, 0755 555 555</p>
+    </div>
+    <div class="col-md-3">
+      <p>e: <a href="">mail@domain.com</a></p>
+      <p>t: 0744 444 444, 0755 555 555</p>
+    </div>
+    <div class="col-md-3">
+      <p>e: <a href="">mail@domain.com</a></p>
+      <p>t: 0744 444 444, 0755 555 555</p>
+    </div>
+    <div class="col-md-3 social">
+      <a href="#"><i class="fa fa-facebook-square"></i></a>
+      <a href="#"><i class="fa fa-linkedin-square"></i></a>
+    </div>
 
-    </ul>
-</footer>
-</div>
+  </div>
+</div><!-- #footer -->
 <?php wp_footer(); ?>
-<script src="http://code.jquery.com/jquery.js"></script>
-<script src="<?php bloginfo('stylesheet_directory'); ?>/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/map.js"></script>
 </body>
 </html>

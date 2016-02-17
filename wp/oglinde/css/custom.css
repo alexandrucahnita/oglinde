@@ -1,382 +1,220 @@
-.grid {
-    background: url("../img/grid.png") repeat-y scroll 51% top transparent;
-    display: none;
-    height: 100%;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 99999999;
+body {
+	font-family: 'PT Serif', serif; 
+	background-color: #dadada;
+	font-size:18px;
+	line-height:1.7;
 }
-
-a {
-    color: #000;
+/*typography*/
+.sansSerif {
+	font-family: 'Source Sans Pro', sans-serif;
 }
-
-a:hover, a:active {
-    color: #000;
-    text-decoration: underline;
+/*lists*/
+#content ul {
+	list-style-type: none;
 }
-
-.container {
-    width: 940px;
-    font-family: 'Open Sans', sans-serif;
+#content li {
+	text-indent:-1.1em;
+	margin-bottom:10px;
 }
-
-header {
-    margin-bottom: 60px;
-}
-
-#branding {
-    margin-top: 50px;
-}
-
-.right {
-    float: right;
-}
-
-#search {
-    float: left;
-}
-
-#socialMedia {
-    -moz-box-sizing: border-box;
-    display: block;
-    float: left;
-    margin-left: 20px;
-    min-height: 30px;
-    width: 30px;
-}
-
-nav {
-    background-color: #ffde00;
-    border-radius: 8px;
-}
-
-footer {
-    background-color: #333333;
-    border-radius: 8px;
-    color: #fff;
-    padding: 10px 0;
-    font-size: 14px;
-}
-
-nav ul, footer ul {
-    margin: 0 0 0 20px;
-}
-
-footer ul a, footer ul a:hover, footer ul a:visited  {
-    color: #FFDE00;
-}
-
-nav ul li, footer ul li {
-    display: inline;
-    list-style-type: none;
-    margin-right: 10px;
-    padding-right: 10px;
-    border-right: 1px solid #000;
-    height: 20px;
-}
-
-footer ul li {
-    border-right: 1px solid #FFDE00;
-}
-
-footer ul li:last-child {
-    border-right: 0 none;
-}
-
-nav ul li:last-child {
-    float: right;
-    border-right: 0 none;
-}
-
-nav ul li a {
-    font-size: 18px;
-    font-weight: normal;
-    color: #000;
-    line-height: 40px;
-}
-nav ul li.current-menu-item a {
-    font-weight: bold;
-}
-/*custom presentational classes*/
-.spacing {
-    margin-bottom: 20px;
-}
-
-.spacing2 {
-    margin-bottom: 40px;
-}
-
-h1, h2 {
-    font-weight: normal;
-}
-
-h1 {
-    margin-bottom: 20px;
-}
-
-h2 {
-    margin-top: 20px;
-    line-height:30px;
-}
-h3 {
-    font-size: 18px;
-    line-height: 20px;
-    font-weight: bold;
-    }
-.maincontent h3 {
-	margin-top: 20px;
-}
-table {
-font-size: 14px;
-    }
-
-thead {
-background-color: #ffde00;
-text-transform: uppercase;
-font-weight: bold;
-    }
-
-
-aside {
-    font-size: 12px;
-    line-height: 15px;
-}
-
-aside div {
-    margin-bottom: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #ccc;;
-}
-aside img {
-margin-bottom:0;
-}
-
-.btn {
-    font-size: 14px;
-    background-color: #ffde00;
-    background-image: linear-gradient(to bottom, #ffde00, #ffde00);
-    background-repeat: repeat-x;
-    border-color: #ffde00 #ffde00 #ffde00;
-    border-image: none;
-    color: #000;
-}
-#content a.btn {
-    color:#000;
-    background-color: #e2c500;
-    text-decoration: none;
-
-}
-
-.btn:hover, .btn:focus, #content a.btn:hover, #content a.btn:focus {
-    color: #000;
-    background-color: #e2c500;
-    background-image: linear-gradient(to bottom, #ffde00, #e2c500);
-    text-decoration: none;
-    background-position: 0 0;
-    -webkit-transition: none;
-    -moz-transition: none;
-    -o-transition: none;
-    transition: none;
-}
-
-#content ul li {
-    margin: 0 0 10px 0;
-    padding-left: 20px;
-
-}
-#content ul li {
-list-style: none inside;
-    }
 #content ul li:before {
-background: url("../img/glyphicons-halflings.png") no-repeat scroll -285px 0 transparent;
-content: "";
-height: 20px;
-margin: 5px -25px;
-position: absolute;
-width: 20px;
-z-index: -1;
-    }
-#content ol li {
-    margin: 0 0 10px 20px;
+	font-family:'FontAwesome';
+	content:"\f105";/* angle-right*/
+	color:#f16474;
+	margin-right:0.7em;
+
 }
-#content ul ul {
-    margin-top:10px;
+ol { counter-reset: item; }
+        ol li { display: block; }
+        ol li:before {
+            content: counter(item) ". ";
+            counter-increment: item;
+            color: #f16474;;
+        }
+/*Header*/
+#logo {
+	width:50px;
+	height:auto;
 }
-#content a {
-    color: #0099ff;
+body > nav {
+		background-color: #dadada;
+		padding-bottom: 20px;
+}
+nav#navbar, nav#navbar.navbar-collapse, nav#navbar.collapse {
+	margin: 33px 0 0 0;
+	float:right;
+	padding-bottom:0;
+}
+nav.navbar .container {
+	padding-left:0;
+	padding-right:0;
+}
+#navbar .navbar-nav {
+	margin-right:60px;
+}
+#navbar .last {
+	margin-right:0px;
+}
+#navbar a {
+	color:#000;
+	text-transform: uppercase;
+	font-size: 18px;
+	display: inline-block;
+	padding:20px 0 6px 0;
+	border-bottom: 3px solid transparent;
+}
+
+#navbar li.active a, #navbar a:hover {
+	border-bottom: 3px solid #00b0bd ;
+	background-color: transparent;
+}
+
+.navbar-brand {
+    float: left;
+    height: auto;
+    padding: 10px 0 0 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+/*content*/
+a {
+	color: #00b0bd;
+}
+a:focus, a:hover {
+    color: #00b0bd;
     text-decoration: underline;
 }
-
-#content a:hover {
-    text-decoration: none;
+#content {
+	margin-top:152px;
+}
+ #content > .row {
+	border-bottom: 20px solid #dadada;
+}
+/*#content > .row-banner {
+	display:block;
+}*/
+ #content .row > #home-banner-content   {
+	position: absolute;
+	color:#fff;
+	font-size: 250%;
+	line-height: 125%;
+	font-style: italic;
+	margin-top: 13%;
+	margin-left:1%;
+	background-color: transparent;
+	padding:0;
+	border:none;
+}
+ #home-banner-content   a:hover{
+	color:rgba(255, 255, 255, 0.8);
+}
+ #content .row > div{
+	background-color: #fff;
+	padding:20px;
+}
+ #content .row > div {
+    background-color: #fff;
+    padding: 20px;
+}
+ #content .row >  div.imgContainer {
+	background-color: transparent;
+	padding: 0;
+}
+a.more {
+	color: #f16474;
+	border-bottom: 1px solid #f16474;
+	padding-bottom:3px;
+}
+a.more:hover {
+	text-decoration: none;
+	color:#AD4853;
+	border-bottom-color: #AD4853;
+}
+a.more i {
+	padding-right: 10px;
+    font-size: 130%;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 4px;
+    margin-bottom: -3px;
 }
 
-form#programari .controls {
-    font-size: 14px;
+#content .row > div.green {
+	background-color: #00b0bd;
+	color:#fff; 
+	font-size:130%;
+}
+#content .row > div.green a{
+	color:#fff;
+}
+.twocols {
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
+    padding-left:20px;
 }
 
-#programari input, textarea, .uneditable-input {
-    width: 310px;
+.zeroLeft {
+	padding-left: 0 !important;
+}
+.zeroBottom {
+	padding-bottom: 0px !important;
+}
+.hideit {
+	display: none;
 }
 
-#programari input.small {
-    width: 105px;
+.testimonial {
+	font-style: italic;
+	font-weight: 400;
 }
-
-form#programari {
-    margin: 40px 0 20px 0;
+.signature {
+	float:right;
+	font-style: normal;
+	font-weight: 600;
 }
-
-.hero {
-    font-size: 18px;
-    font-style: italic;
-    line-height: 30px;
-    font-weight: lighter;
+#testimonial-prev, #testimonial-next {
+	font-size:250%;
 }
-
-.homespan {
-    margin-left: 0;
-    font-size: 14px;
-}
-
-.homespan h2 {
-    margin-top: 0;
-}
-
-.border {
-    margin-bottom: 20px;
-    border-bottom: 1px solid #ccc;
-}
-
-.portlet {
-    font-size: 14px;
-    margin-bottom:20px;
-}
-
-.portlet h2 {
-    margin-top: 0;
-    line-height:20px;
-}
-img{
-    margin: 0 0 20px 0;
-}
-
-/*form*/
-.controls .wpcf7-not-valid-tip {
-    background: none repeat scroll 0 0 #FFFFFF;
-    border: 1px solid #FF0000;
-    font-size: 10pt;
-    left: 0;
-    padding: 4px;
-    position: absolute;
-    top: -1px;
-    width: 285px;
-    z-index: 100;
-    border-radius: 4px;
-}
-.controls input, .controls textarea {
-    width:280px;
-}
-.controls select {
-    width:295px;
-}
-.controls input#submit {
-    width:inherit;
-}
-.column div.portlet {
-    margin-left: 0;
-    border-bottom: 1px solid #CCCCCC;
-    padding-bottom:0;
-    margin-bottom: 10px;
-}
-.column div.portlet:last-child {
-    border-bottom:0;
-    margin-bottom: 0;
-}
-.column div.portlet p {
-    margin-left:0;
-}
-.column div.portlet button {
-    float:right;
-}
-.yellow {
-    background-color:#cccccc;
-    padding:10px;
-}
-
-#phone {
-    background-color: #e1e1e8;
-    border-radius: 4px 4px 4px 4px;
-    float: left;
-    height: 30px;
-    line-height: 30px;
-    padding: 0 10px;
-}
-.2columns {
-  -moz-column-count:2; /* Firefox */
-      -webkit-column-count:2; /* Safari and Chrome */
-      column-count:2;
-
-      -moz-column-gap:40px; /* Firefox */
-      -webkit-column-gap:40px; /* Safari and Chrome */
-      column-gap:40px;
-
-      -moz-column-rule:4px outset #ff00ff; /* Firefox */
-      -webkit-column-rule:4px outset #ff00ff; /* Safari and Chrome */
-      column-rule:4px outset #ff00ff;
-  }
-  .infohp ul {
-	margin-left:0;
-  }
-  .infohp ul li {
- background: url("../img/bull.png") no-repeat scroll 0 6px transparent;
-    font-size: 14px;
-    line-height: 20px;
-    list-style-position: outside;
-    list-style-type: none;
-    margin-bottom: 10px;
-    margin-left: 10px;
+#footer {
+    padding-right: 15px;
     padding-left: 15px;
-  }
-    .infohp h2 {
-	margin-top:0;
-	}
-
-.symbol {
-	float:left;
-margin-right:10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
 }
-
-/*scheduler*/
-
-#content div#birs_booking_box ul li:before {
-    background: none;   
+#footer .social i {
+	font-size:36px;
+	padding-left:20px;
+	padding-right:0;
 }
-#content div#birs_booking_box a {
-    color: inherit;
-    text-decoration: none;
+#footer a i.fa-facebook-square {
+	color:#3b5998;
 }
-
-#content #birs_appointment_timeoptions div {
-    overflow: hidden;
+#footer a i.fa-linkedin-square {
+	color:#0077b5;
 }
-#content #birs_appointment_timeoptions span {
-    display: block;
-    float: left;
-    padding:5px 0;
-    text-align: center;
-    width:20%;
+#footer > div {
+	margin-bottom:20px;
 }
-#content #birs_appointment_timeoptions span a {
-    display: inherit;
-    text-align: left;
-    width: 100%;
+#footer p {
+	line-height: 1;
 }
-#content #birs_appointment_timeoptions a.selected {
-    background-color: #BFBFBF;
-    color: white;
-    padding: 0;
+#content table {
+	font-size:14px;
+	border-bottom: 2px solid #9A9A9A;
+	border-top: 2px solid #9A9A9A;
+}
+form{
+	margin:40px 0;
+}
+.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
+    position: absolute;
+    margin-left: -20px;
+    margin-top: 7px;
+}
+.help-block {
+	font-size:14px;
 }
