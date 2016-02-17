@@ -1,7 +1,7 @@
-<?php remove_filter('the_content', 'wpautop'); ?>
+<?php add_filter('the_content', 'wpautop'); ?>
 <?php get_header(); ?>
 
- <body>
+ <body id="categoryPage">
 <?php include_once("analyticstracking.php") ?>
     <div style="position:absolute; width:100%; height:1px; z-index:5000000; border-bottom:1px solid #36ff00; top:10px;"></div>     
 <?php include("navigation-menu.php") ?>

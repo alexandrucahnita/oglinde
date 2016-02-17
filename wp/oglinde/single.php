@@ -1,3 +1,4 @@
+<?php remove_filter('the_content', 'wpautop'); ?>
 <?php get_header(); ?>
 <body>
 	<?php include_once("analyticstracking.php") ?>

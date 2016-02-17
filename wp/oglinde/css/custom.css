@@ -64,7 +64,7 @@ nav.navbar .container {
 	border-bottom: 3px solid transparent;
 }
 
-#navbar li.active a, #navbar a:hover, #navbar a:focus {
+#navbar li.active a, #navbar a:hover, #navbar a:focus, #navbar .current_menu_item a, #navbar .current-menu-item a, #navbar .current-menu-parent a{
 	border-bottom: 3px solid #00b0bd ;
 	background-color: transparent;
 	text-decoration: none;

@@ -3,6 +3,7 @@
 Template Name: Portraits
 */
 ?>
+<?php remove_filter('the_content', 'wpautop'); ?>
 <div class="row">
 <div class="col-md-12">
   <div class="col-md-12">

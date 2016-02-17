@@ -4,7 +4,7 @@ Template Name: Homepage
 */
 ?>
 
-<?php remove_filter('the_content', 'wpautop'); ?>
+<?php add_filter('the_content', 'wpautop'); ?>
 <?php get_header(); ?>
     <body id="home">
 <?php include_once("analyticstracking.php") ?>

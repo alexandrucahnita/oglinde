@@ -26,11 +26,10 @@
 			<p class="small"><?php comment_date('d / m / Y') ?>, <?php comment_time('G:m') ?></p>
 			<h3><?php comment_author_link() ?></h3>
 			<?php if ($comment->comment_approved == '0') : echo "<em>Your comment is awaiting moderation.</em>"; endif; ?>
+			<?php comment_text() ?>
+			<?php edit_comment_link('Edit'); ?>
 
 			
-			<?php edit_comment_link('edit','&nbsp;&nbsp;',''); ?>
-
-			<?php comment_text() ?>
 
 		</div>
 
