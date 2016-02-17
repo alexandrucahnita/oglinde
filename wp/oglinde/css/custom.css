@@ -9,7 +9,7 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 /*lists*/
-#content ul {
+#content ul, .container ul{
 	list-style-type: none;
 }
 #content li {
@@ -34,6 +34,7 @@ ol { counter-reset: item; }
 #logo {
 	width:50px;
 	height:auto;
+	margin-top:30px;
 }
 body > nav {
 		background-color: #dadada;
@@ -49,7 +50,7 @@ nav.navbar .container {
 	padding-right:0;
 }
 #navbar .navbar-nav {
-	margin-right:60px;
+	margin-left:60px;
 }
 #navbar .last {
 	margin-right:0px;
@@ -63,9 +64,10 @@ nav.navbar .container {
 	border-bottom: 3px solid transparent;
 }
 
-#navbar li.active a, #navbar a:hover {
+#navbar li.active a, #navbar a:hover, #navbar a:focus {
 	border-bottom: 3px solid #00b0bd ;
 	background-color: transparent;
+	text-decoration: none;
 }
 
 .navbar-brand {
@@ -217,4 +219,33 @@ form{
 }
 .help-block {
 	font-size:14px;
+}
+p.small {
+    margin-bottom: -10px;
+}
+.small + h3 {
+	margin-top:10px;
+}
+.commentInList {
+	margin-bottom:60px;
+}
+#comment-area h2 {
+	margin-bottom: 60px;
+}
+#comment-area h2 {
+	margin-bottom: 30px;
+}
+label {
+	font-weight: 600;
+	font-size:16px;
+}
+.btn-primary, .btn-primary:visited {
+    color: #fff;
+    background-color: #00b0bd; 
+    border-color: #05B6C3;
+}
+.btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary:active, .btn-primary:disabled, .btn-primary:link   {
+    color: #fff;
+   background-color: #057982;
+    border-color: #067B84;
 }

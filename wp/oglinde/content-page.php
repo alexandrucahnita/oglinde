@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: ContentPage
+Template Name: Despre
 */
 ?>
 
@@ -9,8 +9,9 @@ Template Name: ContentPage
     <body>
 <?php include_once("analyticstracking.php") ?>
     <div style="position:absolute; width:100%; height:1px; z-index:5000000; border-bottom:1px solid #36ff00; top:10px;"></div>     
-<?php include("navigation.php") ?>
+<?php include("navigation-menu.php") ?>
 <div id="content" class="container">  
+<?php include("portraits.php") ?>
 <!-- START CONTENT -->
 <div class="row">
 <div class="col-md-12">

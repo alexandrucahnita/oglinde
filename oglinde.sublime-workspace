@@ -1,0 +1,790 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"j",
+				"jquery.js"
+			],
+			[
+				"ENA",
+				"ENA Voice - Dashboard_files/"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"the_",
+				"the_excerpt"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddn",
+				"padding-left"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"HelveticaNeueL",
+				"HelveticaNeue-Light.svg"
+			],
+			[
+				"h",
+				"helvetica.css"
+			],
+			[
+				"fo",
+				"fonts/"
+			],
+			[
+				"he",
+				"HelveticaNeue.ttf"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"e",
+				"ena-logotype.png	w:59 h:26"
+			],
+			[
+				"hide",
+				"hideLabel"
+			],
+			[
+				"show",
+				"showLabel"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"ena",
+				"ena-ctac-logo-pms.svg"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"an",
+				"animatescroll"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "oglinde.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"Gist:Insert Gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"PAC",
+				"Package Control: Install Package"
+			],
+			[
+				"color ",
+				"Color Picker"
+			],
+			[
+				"gis",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde"
+	],
+	"file_history":
+	[
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde.sublime-project",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_layouts/page.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/css/toastr.css",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_includes/head.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/js/alex.js",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/css/alex.css",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_layouts/panel.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_layouts/default.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_config.yml",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/__about.md",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_includes/footer.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_site/css/style.css",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/styleguide1.html",
+		"/Users/p3700362/Desktop/voice/styeguides.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_includes/right-side-icons.html",
+		"/Users/p3700362/Desktop/voice/Styeguides2.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_includes/header.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_layouts/post.html",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_posts/2016-02-17-welcome-to-jekyll.markdown",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/head-backup.html",
+		"/Users/p3700362/Desktop/voice/ENA Voice - Dashboard.html",
+		"/Users/p3700362/Documents/Work/Site/blog/node_modules/hexo/node_modules/hexo-util/node_modules/highlight.js/lib/languages/ruby.js",
+		"/Users/p3700362/Desktop/voice/ENA Voice - Dashboard_files/alex.js",
+		"/Users/p3700362/Desktop/voice/ENA Voice - Dashboard_files/style(1).css",
+		"/Users/p3700362/Desktop/voice/ENA Voice - Dashboard_files/style.css",
+		"/Users/p3700362/Desktop/voice/ENA Voice - Dashboard_files/backgrid-paginator.css",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/Sublime-HTMLPrettify/.jsbeautifyrc",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Users/p3700362/Desktop/voice/ENA Voice - Dashboard_files/alex.css",
+		"/Applications/MAMP/conf/apache/extra/compute.conf",
+		"/Applications/MAMP/conf/apache/compute.conf",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/05 Local Apps/Compute/ena_compute/bower.json",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/single.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/css/custom.css",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/category.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/functions.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/content-page.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/homepage.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/page.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/navigation.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/navigation-menu.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/sidebar.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/header.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/404.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/sftp-config.json",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/footer.php",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/01 Generic Redesign Files/ena-compute-styles-modifications.css",
+		"/Users/p3700362/Desktop/fontawesome-icons.md",
+		"/Users/p3700362/Desktop/test.html",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde/js/custom.js",
+		"/var/folders/7k/jty_x4sn6czf4w4929jwp84ry_7bsb/T/5fd7f91e-2681-4d79-864f-22b68e7d7d71/dev1/wp-content/themes/oglinde/sublime-gavrilescu-ftp.json",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp-server/sftp-config.json",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/private/var/folders/7k/jty_x4sn6czf4w4929jwp84ry_7bsb/T/5fd7f91e-2681-4d79-864f-22b68e7d7d71/dev1/wp-content/themes/oglinde/404.php",
+		"/private/var/folders/7k/jty_x4sn6czf4w4929jwp84ry_7bsb/T/5fd7f91e-2681-4d79-864f-22b68e7d7d71/dev1/wp-content/themes/oglinde/header.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/footer.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/navigation.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/page.html",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/homepage.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/content-page.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/js/custom.js",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/page.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/css/custom.css",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/Readme.md",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/index.html",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/header.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/headerContentOld.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/headerContent.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/typography.html",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/css/responsive.css",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/css copy/responsive.css",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/css copy/custom.css",
+		"/Users/p3700362/Desktop/Lorem ipsum.txt",
+		"/Users/p3700362/Desktop/index.html",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/js/custom.js",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/p3700362/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/html/js/custom.js",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/html/index.html",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/html/css/custom.css",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/readme.md",
+		"/Users/p3700362/.ssh/alex.pub",
+		"/Users/p3700362/Desktop/test fonts/HelveticaNeue-Bold.svg",
+		"/Users/p3700362/Desktop/test fonts/HelveticaNeue-Bold.woff",
+		"/Users/p3700362/Desktop/test fonts/HelveticaNeue-Bold.ttf",
+		"/Users/p3700362/Desktop/test fonts/HelveticaNeue.svg",
+		"/Users/p3700362/Desktop/test fonts/HelveticaNeue.woff",
+		"/Users/p3700362/Desktop/test fonts/HelveticaNeue.ttf",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/assets/themes/bootstrap-3/js/custom.js",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/themes/bootstrap-3/portfolio-gav.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project1.md",
+		"/Users/p3700362/Documents/Work/ux/ux_caf2/01 Generic Redesign Files/08 Labs Launch/ENA.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/portfolio.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project3.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project5.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project7.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project8.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project6.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project4.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2013-12-21-project2.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/partials/header.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/partials/footer.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/assets/themes/bootstrap-3/css/custom.css",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/assets/themes/bootstrap-3/css/pinterestStyleWide.css",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/partials/navigation.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/project1.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/JB/categories_list",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/JB/analytics",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_config.yml",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/about.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_layouts/default-gav.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_layouts/portfolio-gav.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/content/navigation.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/content/content-test.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_layouts/page-gav.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/index.md",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_layouts/default.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/themes/bootstrap-3/page-gav.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/navigation.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/assets/themes/bootstrap-3/js/_old_custom.js",
+		"/Volumes/wireframes$/caf2/sidebar/index.html",
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_layouts/page.html",
+		"/Users/p3700362/Documents/Alex/html/portfolio.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"",
+			"</script>\\n",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arrow",
+			"h4 ",
+			"h4",
+			"><",
+			"tooltip fade top in",
+			"popover-cont",
+			"><",
+			"popover",
+			"popover fade top",
+			"><",
+			"quest",
+			"question",
+			"tooltip",
+			"\"Nothing",
+			"\"Pending\"",
+			"Pending",
+			"status",
+			"Nothing selected",
+			"Nothing Selected",
+			"btn-group bootstrap-select show-tick form-control input-sm",
+			"dashboardStatusFilter",
+			"><",
+			"favico\nfavicon.ico",
+			"sidebar-icons-help",
+			"sidebar-icons",
+			"><",
+			"/ENA Voice - Dashboard_files/",
+			"jquer",
+			"<strong>",
+			"<p>\\n<strong>",
+			"<p><strong>",
+			"</tbody",
+			"<h5>Table",
+			"<table",
+			"table",
+			"Validations",
+			"Validations ",
+			"clearfix",
+			"validations",
+			"Items per page (10) ",
+			".tab-panel-box",
+			".well",
+			"soli",
+			"edit",
+			"\\n</strong>",
+			"\\n</a>",
+			"\\n</i>",
+			"><",
+			"http:",
+			"compute",
+			"virtual ",
+			"virtual",
+			"prox",
+			"virtual",
+			"virtua",
+			"ena_c",
+			"t20",
+			".b",
+			"https:",
+			"?dl=0",
+			"www.dropbox.com",
+			"&nbsp; ",
+			"###",
+			"\\s\\s\\s",
+			"---",
+			"![]",
+			"__ - ",
+			"]\\n__",
+			"\\n__",
+			"__",
+			".coms",
+			"?dl=0",
+			"www.dropbox.com/",
+			"Sidebar 1",
+			"sidebar",
+			"Sidebar 1",
+			"sidebar",
+			"young-",
+			"young",
+			"youngc",
+			"; ?>/img",
+			"src=\"img/",
+			"<img src=\"",
+			"<img src=\"img",
+			"typography.html.html",
+			".home-banner-content",
+			"-banner-content",
+			"-banner-content ",
+			"#home",
+			"B2",
+			"footer",
+			"#footer",
+			"min-width: 1",
+			"@media(min-width: 1000",
+			"<div class=\"col-md-3\">\n      e: <a href=\"\">mail@domain.com</a><br />\n      t: 0744 444 444, 0755 555 555\n    </div>\n    ",
+			"992",
+			".container",
+			"red",
+			"\\n            </li>",
+			"\\+",
+			"\"+\"",
+			"+",
+			"+ ",
+			"auto",
+			"row",
+			"container",
+			"none",
+			"width",
+			"><!--",
+			"B2",
+			"B1",
+			"B20",
+			"B22",
+			"B21",
+			", ",
+			"<script>",
+			"</script>",
+			"contentTest",
+			"$(\".cover\").click(function(){\n    $(\".contentTest\").show();\n    $(\"body\").addClass(\"noScroll\");\n});\n//cover\n$(\".contentTest\").hide();\n$(\".closeDetails\").click(function(){\n    $(this).parent().hide();\n});",
+			"item",
+			"pinterest",
+			"catego",
+			"home",
+			"\n    ",
+			".imageContainer",
+			"monitor",
+			"pinterestStyle",
+			"b20"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			">\\n<",
+			"/files/",
+			"</strong>",
+			"</a>",
+			"</i>",
+			">\\n<",
+			"[image-35]: https:",
+			"?raw=1",
+			"dl.dropboxusercontent.com",
+			"\\n &nbsp; \\n",
+			"&nbsp; \\n###",
+			"/s/s/s",
+			"\\s\\s\\s",
+			"![alt text]",
+			"\\n",
+			"]\\n###",
+			"###",
+			".com/s",
+			"/com/s",
+			"?raw=1",
+			"dl.dropboxusercontent.com",
+			"src=\"<?php bloginfo('stylesheet_directory'); ?>/img",
+			"<img src=\"<?php bloginfo('stylesheet_directory'); ?>/img",
+			"typography.html",
+			"#home-banner-content ",
+			".home-banner-content ",
+			"",
+			"B1",
+			"</li>",
+			"</li>\\n<li>",
+			"B3",
+			"B2",
+			"B1",
+			"B20",
+			"B22",
+			", \\n",
+			"\\n<script>",
+			"</script>\\n",
+			"pinterestStyleWide",
+			" <img src=\"http://placehold.it/350x150\" class=\"img img-responsive\">",
+			"</p>\\n<p>",
+			"\\n</",
+			"<p>",
+			"http://www",
+			"$1\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "oglinde.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "json",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "oglinde.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

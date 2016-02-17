@@ -5,26 +5,14 @@
             <span class="sr-only">Toggle navigation</span>
             <i class="fa fa-navicon"></i>
           </button>
-          <a class="navbar-brand" href="index.html"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.svg" id="logo" alt=""></a>
+          <a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/logo.svg" id="logo" alt=""></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="index.html">Home</a></li>
-            <li><a href="typography.html">Terapia Psihosomatica</a></li>
-            </ul>
-           <ul class="nav navbar-nav">
-            <li><a href="page.html">Clienti</a></li>
-            <li><a href="typography.html">Servicii</a></li>
-            </ul>
-           <ul class="nav navbar-nav">
-            <li><a href="page.html">Despre</a></li>
-            <li><a href="typography.html">Studii de caz</a></li>
+        <ul class="nav navbar-nav" id="uno"><?php wp_nav_menu( array( 'container_id' => 'uno', 'theme_location' => 'menu1' ) ); ?></ul>
+        <ul class="nav navbar-nav" id="dos"><?php wp_nav_menu( array( 'container_id' => 'dos', 'theme_location' => 'menu2' ) ); ?></ul>
+        <ul class="nav navbar-nav" id="tres"><?php wp_nav_menu( array( 'container_id' => 'tres', 'theme_location' => 'menu3' ) ); ?></ul>
+        <ul class="nav navbar-nav" id="quatro"><?php wp_nav_menu( array( 'container_id' => 'quatro', 'theme_location' => 'menu4' ) ); ?></ul>
 
-          </ul>
-           <ul class="nav navbar-nav last">
-            <li><a href="page.html">Noutati</a></li>            
-            <li><a href="typography.html">Contact</a></li>
-          </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
