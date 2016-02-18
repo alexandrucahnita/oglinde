@@ -44,11 +44,11 @@ add_filter( 'wp_nav_menu', 'remove_ul' );
 
 
 //add custom image class
-function image_tag_class($class) {
-    $class .= ' img img-responsive';
-    return $class;
-}
-add_filter('get_image_tag_class', 'image_tag_class' );
+// function image_tag_class($class) {
+//     $class .= ' img img-responsive';
+//     return $class;
+// }
+// add_filter('get_image_tag_class', 'image_tag_class' );
 
 
 //end

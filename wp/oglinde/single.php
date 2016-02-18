@@ -11,7 +11,7 @@
 						<p class="small"><?php the_date('d / m / Y') ?></p>
 						<h1><?php the_title(); ?></h1>
 						<div>
-							<div class="span9 maincontent">
+							<div class="maincontent">
 								<div class="entry">
 									<?php the_content(); ?>
 								</div> <!-- .entry -->

@@ -242,3 +242,6 @@ form{
 .t20 {
 	margin-top: 20px;
 }
+.wp-caption-text{
+	display: none;
+}
