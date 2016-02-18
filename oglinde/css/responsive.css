@@ -1,7 +1,7 @@
 /*responsive.css*/
 @media (min-width:768px) {
 	.navbar>.container .navbar-brand {
-		margin-left:-5px;
+		margin-left:-15px;
 	}
 	#navbar {
 	padding: 33px 0 0 0;

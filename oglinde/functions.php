@@ -45,10 +45,4 @@ add_filter( 'wp_nav_menu', 'remove_ul' );
 
 
 //end
-
-
-//sidebar shit
-/**
- * Register Sidebar
- */
 ?>

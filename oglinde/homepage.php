@@ -15,10 +15,14 @@ Template Name: Homepage
 
 <!-- HOME BANNER -->
   <div class="row" id="home-banner">
-  <div id="home-banner-content">
-    <p>We are a group of psychologists that are<br />doing things differently.</p>
-    <p>Here it is why we are doing it so.</p>
-    <p><a href=""><i class="fa fa-chevron-circle-right"></i></a></p>
+  <div id="home-banner-content" class="col-md-12">
+    <p>Cauți oameni cu experiență extinsă<br />
+    în problemele care contează cel mai mult pentru tine?</p>
+    <h3>Bun venit!</h3>
+    <p>Suntem un grup de psihologi ieșeni preocupați
+    de descifrarea structurii umane,<br />
+    organizați într-o formulă completă în cadrul clinicii Oglinde.</p>
+    <!-- <p><a href=""><i class="fa fa-chevron-circle-right"></i></a></p> -->
     </div>
       <img src="<?php bloginfo('stylesheet_directory'); ?>/img/home-banner.jpg" alt="" class="img img-responsive" />
   </div><!-- -banner-content -->
