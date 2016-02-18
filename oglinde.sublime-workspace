@@ -184,17 +184,146 @@
 	"buffers":
 	[
 		{
+			"file": "wp/oglinde/comments.php",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 3480,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "oglinde.sublime-project",
+			"file": "wp/oglinde/content-page.php",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 803,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/single.php",
+			"settings":
+			{
+				"buffer_size": 1090,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/header.php",
+			"settings":
+			{
+				"buffer_size": 2394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 4644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/navigation.php",
+			"settings":
+			{
+				"buffer_size": 1249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/sidebar.php",
+			"settings":
+			{
+				"buffer_size": 188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/portraits.php",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/despre.php",
+			"settings":
+			{
+				"buffer_size": 1039,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/functions.php",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/page.php",
+			"settings":
+			{
+				"buffer_size": 759,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/homepage.php",
+			"settings":
+			{
+				"buffer_size": 4155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/404.php",
+			"settings":
+			{
+				"buffer_size": 461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/analyticstracking.php",
+			"settings":
+			{
+				"buffer_size": 428,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/aside.php",
+			"settings":
+			{
+				"buffer_size": 928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/startertheme/header.php",
+			"settings":
+			{
+				"buffer_size": 1022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp/oglinde/category.php",
+			"settings":
+			{
+				"buffer_size": 1570,
 				"line_ending": "Unix"
 			}
 		}
@@ -288,10 +417,20 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde"
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/img",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/css"
 	],
 	"file_history":
 	[
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/content-page.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/page.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/portraits.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/programari.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/single.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/startertheme/comments.php",
+		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/index.html",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/oglinde.sublime-project",
 		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/_layouts/page.html",
 		"/Users/p3700362/Documents/Work/ux/ux_caf2/06_styleguides_html/styleguides/css/toastr.css",
@@ -354,12 +493,9 @@
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/navigation.php",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/page.html",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/homepage.php",
-		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/content-page.php",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/js/custom.js",
-		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/page.php",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/css/custom.css",
 		"/Users/p3700362/Documents/Work/ux/ux_caf2/Readme.md",
-		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/index.html",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/header.php",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/headerContentOld.php",
 		"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde/headerContent.php",
@@ -415,21 +551,18 @@
 		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/index.md",
 		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_layouts/default.html",
 		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_includes/themes/bootstrap-3/page-gav.html",
-		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/navigation.html",
-		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/assets/themes/bootstrap-3/js/_old_custom.js",
-		"/Volumes/wireframes$/caf2/sidebar/index.html",
-		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/_layouts/page.html",
-		"/Users/p3700362/Documents/Alex/html/portfolio.html"
+		"/Users/p3700362/Documents/Alex/Github/baiatnebun.github.io/navigation.html"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 93.0,
 		"where_history":
 		[
+			"/Users/p3700362/Documents/Alex/alex/oglinde/www/oglinde/wp/oglinde",
 			"<open folders>",
 			"",
 			"</script>\\n",
@@ -441,6 +574,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<?php remove_filter('the_content', 'wpautop'); ?>",
+			"edit",
+			"ul",
+			"evenco",
+			"6",
 			"arrow",
 			"h4 ",
 			"h4",
@@ -563,12 +701,7 @@
 			"item",
 			"pinterest",
 			"catego",
-			"home",
-			"\n    ",
-			".imageContainer",
-			"monitor",
-			"pinterestStyle",
-			"b20"
+			"home"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -576,6 +709,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"<?php add_filter('the_content', 'wpautop'); ?>",
 			">\\n<",
 			"/files/",
 			"</strong>",
@@ -631,32 +765,115 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 12,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "wp/oglinde/comments.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3480,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										1958,
+										1962
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								1243,
+								1243
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp/oglinde/content-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 803,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp/oglinde/single.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
 								0
 							]
 						],
 						"settings":
 						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "plain text",
+							"WordCountSyntax": "php",
 							"incomplete_sync": null,
 							"is_xml": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -666,12 +883,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "oglinde.sublime-project",
+					"buffer": 3,
+					"file": "wp/oglinde/header.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 2394,
 						"regions":
 						{
 						},
@@ -684,18 +901,504 @@
 						],
 						"settings":
 						{
-							"WordCountShouldRun": false,
-							"WordCountSyntax": "json",
+							"WordCountSyntax": "php",
 							"incomplete_sync": null,
+							"is_xml": false,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp/oglinde/css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1329,
+								1329
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "css",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 769.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp/oglinde/navigation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								718,
+								718
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp/oglinde/sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "json",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp/oglinde/sidebar.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp/oglinde/portraits.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "wp/oglinde/despre.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "wp/oglinde/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								9
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "wp/oglinde/page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "wp/oglinde/homepage.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4155,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										4128,
+										4131
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1.0,
+						"translation.y": -0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "wp/oglinde/404.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "wp/oglinde/analyticstracking.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "wp/oglinde/aside.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "wp/startertheme/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "wp/oglinde/category.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "php",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
 					"type": "text"
 				}
 			]
@@ -744,7 +1447,7 @@
 	"project": "oglinde.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
