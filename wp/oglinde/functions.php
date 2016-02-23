@@ -43,6 +43,12 @@ function remove_ul ( $menu ){
 add_filter( 'wp_nav_menu', 'remove_ul' );
 
 
+
+
+
+//add feature image
+   add_theme_support( 'post-thumbnails' ); 
+
 //add custom image class
 // function image_tag_class($class) {
 //     $class .= ' img img-responsive';

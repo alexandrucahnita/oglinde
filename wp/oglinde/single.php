@@ -6,6 +6,15 @@
 	<div id="content" class="container">
 		<?php while(have_posts()) : the_post(); ?>
 			<div class="row">
+				<div class="col-md-12">
+				<?php 
+					if (has_post_thumbnail()) {
+						the_post_thumbnail();
+					}
+				 ?>
+				</div><!-- /.col-md-12 -->
+			</div><!-- /.row -->
+			<div class="row">
 				<div class="post col-md-12" id="<?php the_ID(); ?>">
 					<div class="col-md-6 col-md-offset-3">
 						<p class="small"><?php the_date('d / m / Y') ?></p>

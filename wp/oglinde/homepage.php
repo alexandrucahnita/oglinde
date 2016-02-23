@@ -91,7 +91,7 @@ Template Name: Homepage
             </div><!-- .row -->
             <div class="row">
               <div class="col-md-12">
-                <h2>Testimonials</h2>
+                <h2>Testimoniale</h2>
                 <div class="row">
                   <div class="col-md-2">
                     <img src="<?php bloginfo('stylesheet_directory'); ?>/img/testimonials.jpg" alt="" class="img img-responsive">

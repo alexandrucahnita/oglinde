@@ -8,9 +8,25 @@ body {
 .sansSerif {
 	font-family: 'Source Sans Pro', sans-serif;
 }
+h3 {
+	margin:40px 0 20px 0;
+	font-size: 24px;
+    line-height: 35px;
+}
+h4 {
+	font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+h1+h4, h2+h4, h3 + h4 {
+	margin-top:20px;
+}
 /*lists*/
 #content ul {
 	list-style-type: none;
+	margin-bottom: 40px;
 }
 #content li {
 	text-indent:-1.1em;
@@ -64,10 +80,11 @@ nav.navbar .container {
 	border-bottom: 3px solid transparent;
 }
 
-#navbar li.active a, #navbar a:hover {
+#navbar li.active a, #navbar a:hover, #navbar li.current-menu-item a, #navbar li.current_page_item a {
 	border-bottom: 3px solid #00b0bd ;
 	background-color: transparent;
 }
+
 
 .navbar-brand {
     float: left;
@@ -244,4 +261,15 @@ form{
 }
 .wp-caption-text{
 	display: none;
+}
+#footer .social a:hover, .navbar-brand:hover {
+	border-bottom: none;
+}
+#content hr {
+    height: 20px;
+    margin: 40px 0 20px 0;
+    border-top: 20px solid #dadada;
+    padding: 0 2000px;
+    margin-left: -1000px;
+    overflow:hidden;
 }
