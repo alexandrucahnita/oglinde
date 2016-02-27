@@ -24,16 +24,32 @@ $ (document).ready(function(){
 
 
 if ($('body').hasClass("page-collapsible")) {
-		console.log("coll");
+		//console.log("coll");
+		
+
+		// $('h3').each(function() {
+		// 	$('h3').addClass(x);
+		// });
+		//
 		$('h3').each(function(){ 
-			var $targetID = 'hello';
-			//
-			$(this).nextUntil("h3").wrapAll('<div class="collapse" id="' + $targetID + '" />');
+			var targetID = 'hello';
+			$(this).nextUntil("h3").wrapAll('<div class="collapse" id="' + targetID + '" />');
     		$(this).nextUntil("h3").andSelf().wrapAll('<div class="blaaa" />');
-			$(this).wrap('<a class="btn btn-primary" role="button" data-toggle="collapse" href="#' + $targetID + '" aria-expanded="false" aria-controls="' + $targetID + '" />');
+			$(this).wrap('<a class="btn btn-primary" role="button" data-toggle="collapse" href="#' + targetID + '" aria-expanded="false" aria-controls="' + targetID + '" />');
+			//
+			 var n = $("#hello").length;
+      			 $(".collapse").each(function(n) {
+            			$(this).attr("id", "hello" + n);
+      				});
+      			 $("a.btn").each(function(n) {
+      			 	$(this).attr("href", "#hello" + (n + 1));
+      			 })
+
+			//
 		});
+	 
 	 } else {
 
-	 }
-
+				  }	 	
+	// end
 });
